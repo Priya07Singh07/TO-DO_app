@@ -23,7 +23,7 @@ A modern task management application built with Vite, React, and JavaScript. Thi
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone `https://github.com/Priya07Singh07/TO-DO_app.git`
 cd task-tracker
 ```
 
